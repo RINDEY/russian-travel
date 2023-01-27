@@ -3,4 +3,4 @@
 
 1. Проектная работа третьего спринта.
 2. В проекты использовались технология: html, css, FlexBox, grid layout, БЭМ, Nested, адаптивная верстка.
-3. (https://github.com/RINDEY/russian-travel)
+3. https://rindey.github.io/russian-travel/
