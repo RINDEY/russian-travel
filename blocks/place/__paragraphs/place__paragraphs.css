@@ -1,0 +1,7 @@
+.place__paragraphs{
+  grid-area: paragraphs;
+  justify-self: left;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}

@@ -1,0 +1,26 @@
+.cover__link{
+  background: url(../../../images/__background.png) no-repeat center 100%;
+  min-height: 740px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.cover__link::before {
+  content: "";
+  background: #2A2C2F;
+  opacity: 0.3;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.cover__link:hover::before {
+  opacity: 0.8;
+  transition: ease-in-out 1s;
+}
