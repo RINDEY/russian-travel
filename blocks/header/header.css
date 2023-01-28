@@ -6,3 +6,10 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media(min-width: 768px) and (max-width: 1023px) {
+  .header{
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}

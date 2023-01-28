@@ -1,7 +1,16 @@
 .footer{
+  margin: 0 auto;
   margin-bottom: 24px;
   margin-top: 94px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  max-width: 1184px;
+}
+
+@media(min-width: 768px) and (max-width: 1023px) {
+  .footer{
+    margin-left: 24px;
+    margin-right: 24px;
+  }
 }
