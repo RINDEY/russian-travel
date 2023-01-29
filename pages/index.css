@@ -36,7 +36,3 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/link/link.css);
-
-@media(min-width: 1024px) and (max-width: 1279px){}
-@media(min-width: 768px) and (max-width: 1023px) {}
-@media(min-width: 320px) and (max-width: 767px) {}
