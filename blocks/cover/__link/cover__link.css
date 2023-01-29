@@ -42,6 +42,8 @@
 @media (max-width: 425px) {
   .cover__link {
     min-height: 200px;
+    width: 100%;
     margin-bottom: 64px;
+    background-size: 100% 200px;
   }
 }
