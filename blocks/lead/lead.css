@@ -5,15 +5,15 @@
   max-width: 984px;
 }
 
-@media(max-width: 1024px){
-  .lead{
+@media (max-width: 1024px){
+  .lead {
     margin: 0 48px;
     max-width: 928px;
   }
 }
 
-@media(max-width: 768px){
-  .lead{
+@media (max-width: 768px){
+  .lead {
     max-width: 100%;
     margin: 0;
   }

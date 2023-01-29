@@ -7,14 +7,14 @@
   margin-bottom: 64px;
 }
 
-@media(max-width: 1024px) {
-  .lead__subtitle{
+@media (max-width: 1024px) {
+  .lead__subtitle {
     margin-bottom: 56px;
   }
 }
 
-@media(max-width: 425px) {
-  .lead__subtitle{
+@media (max-width: 425px) {
+  .lead__subtitle {
     margin-bottom: 40px;
     font-size: 16px;
     line-height: 20px;

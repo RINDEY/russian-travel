@@ -26,22 +26,22 @@
   transition: ease-in-out 1s;
 }
 
-@media(max-width: 1024px) {
-  .cover__link{
+@media (max-width: 1024px) {
+  .cover__link {
     min-height: 640px;
   }
 }
 
-@media(max-width: 768px) {
-  .cover__link{
+@media (max-width: 768px) {
+  .cover__link {
     min-height: 480px;
-    margin: 0 0 88px;
+    margin-bottom: 88px;
   }
 }
 
-@media(max-width: 425px) {
-  .cover__link{
+@media (max-width: 425px) {
+  .cover__link {
     min-height: 200px;
-    margin: 0 0 64px;
+    margin-bottom: 64px;
   }
 }

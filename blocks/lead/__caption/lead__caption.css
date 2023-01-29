@@ -6,14 +6,14 @@
   text-transform: uppercase;
 }
 
-@media(max-width: 768px) {
-  .lead__caption{
+@media (max-width: 768px) {
+  .lead__caption {
     margin-left: 24px;
   }
 }
 
-@media(max-width: 425px) {
-  .lead__caption{
+@media (max-width: 425px) {
+  .lead__caption {
     margin-left: 16px;
   }
 }
