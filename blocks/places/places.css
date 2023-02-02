@@ -20,8 +20,8 @@
 
 @media(max-width: 425px) {
   .places {
-    margin-bottom: 66px;
     margin-left: 0;
     margin-right: 0;
+    margin-bottom: 0;
   }
 }
